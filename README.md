@@ -2,7 +2,7 @@ Hello there, I’m Luiz Guilherme!👋
 =====
 >A Computer Engineering undergraduate student at the Federal University of Rio de Janeiro
 - 🕹 I’m really into games and series in general.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Docker
 
 <div>
 

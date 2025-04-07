@@ -4,6 +4,8 @@ Hello there, I’m Luiz Guilherme!👋
 - 🕹 I love good games, series... and my dog
 - 🌱 I’m currently learning Docker
 
+---
+
 ## Skills
 
 ### Programming Languages
@@ -24,6 +26,20 @@ Hello there, I’m Luiz Guilherme!👋
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## Projects
+
+### [Graph Theory Project](https://github.com/LuizGAPires/TeoGraf_2022.2)
+>A project with three separate C++ programs, each one focusing on different aspects of graph theory, implemented using foundational algorithms and data structures relevant to the subject.
+
+### [Data Analysis Project](https://github.com/LuizGAPires/Probest.2023.2)
+>A project that explores probabilistic modeling through the lens of real data using tools from statistics and probability theory.
+
+
+
+---
 
 ## Contact
 
